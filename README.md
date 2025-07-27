@@ -1,3 +1,3 @@
 # temp_27_07_2025
-This is just for teaching in Git Course
+This is just for teaching in Git Course <br>
 Author - Manan Thakkar
